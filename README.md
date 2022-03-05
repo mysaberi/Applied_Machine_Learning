@@ -1,6 +1,7 @@
 # Applied Machine Learning Course
 
-I'm __Fatemeh Saberi__, and I took Applied Machine Learning's course in Fall 2021 under supervision of Prof.Hajiabolhassan </br>
+I'm __Fatemeh Saberi__, and I took Applied Machine Learning's course in Fall 2021 under supervision of 
+[Prof.Hajiabolhassan](https://github.com/hhaji) </br>
 
 Our main Reference was ***Understanding Machine Learning: From Theory to Algorithms*** </br>
 </br>
